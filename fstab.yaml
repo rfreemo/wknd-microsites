@@ -1,2 +1,4 @@
 mountpoints:
-  /: https://adobe.sharepoint.com/:f:/r/sites/HelixProjects/Shared%20Documents/sites/adobe/wknd
+  /:
+    url: https://content.da.live/vlab17emea/wknd/
+    type: markup
