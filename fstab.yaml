@@ -1,4 +1,4 @@
 mountpoints:
   /:
-    url: https://content.da.live/vlab17emea/wknd/
+    url: https://content.da.live/vlab17-emea/wknd/
     type: markup
